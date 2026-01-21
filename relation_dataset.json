@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "sentence": "Rahul works at Flipkart",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "works_at",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sentence": "Rahul joined TCS",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "joined",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sentence": "Emma works at Flipkart",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "works_at",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sentence": "Arun lives in Microsoft",
+    "triples": [
+      {
+        "subject": "Arun",
+        "relation": "lives_in",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sentence": "Emma studies at Google",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "studies_at",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sentence": "Anita lives in Zoho",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "lives_in",
+        "object": "Zoho"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sentence": "Emma lives in Google",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "lives_in",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "sentence": "John works at Google",
+    "triples": [
+      {
+        "subject": "John",
+        "relation": "works_at",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "sentence": "Sarah located in Flipkart",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "located_in",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "sentence": "Anita works at Wipro",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "works_at",
+        "object": "Wipro"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "sentence": "Priya lives in Flipkart",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "lives_in",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "sentence": "Neha studies at Microsoft",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "studies_at",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "sentence": "John lives in Zoho",
+    "triples": [
+      {
+        "subject": "John",
+        "relation": "lives_in",
+        "object": "Zoho"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "sentence": "Sarah lives in Google",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "lives_in",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "sentence": "Michael joined Zoho",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "joined",
+        "object": "Zoho"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "sentence": "Emma joined Infosys",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "joined",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "sentence": "Rahul lives in Amazon",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "lives_in",
+        "object": "Amazon"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "sentence": "John works at TCS",
+    "triples": [
+      {
+        "subject": "John",
+        "relation": "works_at",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "sentence": "Anita studies at Infosys",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "studies_at",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "sentence": "Anita studies at Google",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "studies_at",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "sentence": "David lives in Microsoft",
+    "triples": [
+      {
+        "subject": "David",
+        "relation": "lives_in",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "sentence": "Priya lives in Flipkart",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "lives_in",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "sentence": "Rahul studies at Zoho",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "studies_at",
+        "object": "Zoho"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "sentence": "Sarah joined Wipro",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "joined",
+        "object": "Wipro"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "sentence": "Neha works at TCS",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "works_at",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "sentence": "Anita joined Amazon",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "joined",
+        "object": "Amazon"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "sentence": "Emma joined Infosys",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "joined",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "sentence": "John joined Google",
+    "triples": [
+      {
+        "subject": "John",
+        "relation": "joined",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "sentence": "Priya located in Amazon",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "located_in",
+        "object": "Amazon"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "sentence": "John works at Microsoft",
+    "triples": [
+      {
+        "subject": "John",
+        "relation": "works_at",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "sentence": "Neha joined Infosys",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "joined",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "sentence": "Neha studies at Flipkart",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "studies_at",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "sentence": "Sarah works at Flipkart",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "works_at",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "sentence": "Sarah lives in Google",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "lives_in",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "sentence": "Neha lives in Microsoft",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "lives_in",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "sentence": "Sarah lives in Microsoft",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "lives_in",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "sentence": "John located in Google",
+    "triples": [
+      {
+        "subject": "John",
+        "relation": "located_in",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "sentence": "Rahul joined Google",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "joined",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "sentence": "Michael works at TCS",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "works_at",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "sentence": "Anita studies at TCS",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "studies_at",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "sentence": "Emma lives in Flipkart",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "lives_in",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "sentence": "Arun works at Google",
+    "triples": [
+      {
+        "subject": "Arun",
+        "relation": "works_at",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "sentence": "John joined Google",
+    "triples": [
+      {
+        "subject": "John",
+        "relation": "joined",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "sentence": "Rahul works at Flipkart",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "works_at",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "sentence": "Priya lives in Microsoft",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "lives_in",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "sentence": "Priya studies at Google",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "studies_at",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "sentence": "Sarah works at Zoho",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "works_at",
+        "object": "Zoho"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "sentence": "Michael joined Microsoft",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "joined",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "sentence": "David joined Zoho",
+    "triples": [
+      {
+        "subject": "David",
+        "relation": "joined",
+        "object": "Zoho"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "sentence": "Emma located in Google",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "located_in",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "sentence": "David lives in Infosys",
+    "triples": [
+      {
+        "subject": "David",
+        "relation": "lives_in",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "sentence": "Arun joined Infosys",
+    "triples": [
+      {
+        "subject": "Arun",
+        "relation": "joined",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "sentence": "Neha studies at Infosys",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "studies_at",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "sentence": "Rahul joined TCS",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "joined",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "sentence": "John studies at Flipkart",
+    "triples": [
+      {
+        "subject": "John",
+        "relation": "studies_at",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "sentence": "Priya works at Amazon",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "works_at",
+        "object": "Amazon"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "sentence": "Arun joined Microsoft",
+    "triples": [
+      {
+        "subject": "Arun",
+        "relation": "joined",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "sentence": "Priya works at TCS",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "works_at",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "sentence": "Rahul lives in Amazon",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "lives_in",
+        "object": "Amazon"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "sentence": "Priya located in TCS",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "located_in",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "sentence": "Michael joined Amazon",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "joined",
+        "object": "Amazon"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "sentence": "Sarah studies at Infosys",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "studies_at",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "sentence": "Emma lives in Wipro",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "lives_in",
+        "object": "Wipro"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "sentence": "David studies at Zoho",
+    "triples": [
+      {
+        "subject": "David",
+        "relation": "studies_at",
+        "object": "Zoho"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "sentence": "Sarah joined Google",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "joined",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "sentence": "Sarah studies at Google",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "studies_at",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "sentence": "Priya located in Microsoft",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "located_in",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "sentence": "Michael located in Amazon",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "located_in",
+        "object": "Amazon"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "sentence": "Michael works at Wipro",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "works_at",
+        "object": "Wipro"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "sentence": "Emma works at TCS",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "works_at",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "sentence": "Sarah works at TCS",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "works_at",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "sentence": "Neha located in Flipkart",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "located_in",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "sentence": "Sarah lives in Infosys",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "lives_in",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "sentence": "Emma works at Infosys",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "works_at",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "sentence": "Arun located in TCS",
+    "triples": [
+      {
+        "subject": "Arun",
+        "relation": "located_in",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "sentence": "Arun lives in Wipro",
+    "triples": [
+      {
+        "subject": "Arun",
+        "relation": "lives_in",
+        "object": "Wipro"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "sentence": "Michael located in Infosys",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "located_in",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "sentence": "Priya works at Amazon",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "works_at",
+        "object": "Amazon"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "sentence": "Michael works at Flipkart",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "works_at",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "sentence": "Neha located in Wipro",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "located_in",
+        "object": "Wipro"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "sentence": "Priya works at Flipkart",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "works_at",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "sentence": "Emma works at Google",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "works_at",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "sentence": "Emma lives in Microsoft",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "lives_in",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "sentence": "Michael works at TCS",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "works_at",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "sentence": "Rahul lives in Wipro",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "lives_in",
+        "object": "Wipro"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "sentence": "Michael lives in Flipkart",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "lives_in",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "sentence": "Neha joined Microsoft",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "joined",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "sentence": "Anita located in Wipro",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "located_in",
+        "object": "Wipro"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "sentence": "Priya studies at Microsoft",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "studies_at",
+        "object": "Microsoft"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "sentence": "Anita lives in Google",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "lives_in",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "sentence": "Rahul lives in Infosys",
+    "triples": [
+      {
+        "subject": "Rahul",
+        "relation": "lives_in",
+        "object": "Infosys"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "sentence": "Priya lives in Flipkart",
+    "triples": [
+      {
+        "subject": "Priya",
+        "relation": "lives_in",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "sentence": "Sarah studies at TCS",
+    "triples": [
+      {
+        "subject": "Sarah",
+        "relation": "studies_at",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "sentence": "Emma joined Google",
+    "triples": [
+      {
+        "subject": "Emma",
+        "relation": "joined",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "sentence": "Arun studies at Wipro",
+    "triples": [
+      {
+        "subject": "Arun",
+        "relation": "studies_at",
+        "object": "Wipro"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "sentence": "Anita located in TCS",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "located_in",
+        "object": "TCS"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "sentence": "Michael joined Google",
+    "triples": [
+      {
+        "subject": "Michael",
+        "relation": "joined",
+        "object": "Google"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "sentence": "John works at Flipkart",
+    "triples": [
+      {
+        "subject": "John",
+        "relation": "works_at",
+        "object": "Flipkart"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "sentence": "Neha works at Zoho",
+    "triples": [
+      {
+        "subject": "Neha",
+        "relation": "works_at",
+        "object": "Zoho"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "sentence": "Anita lives in Microsoft",
+    "triples": [
+      {
+        "subject": "Anita",
+        "relation": "lives_in",
+        "object": "Microsoft"
+      }
+    ]
+  }
+]
